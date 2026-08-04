@@ -1,4 +1,4 @@
-> **Note on data source:** this is for your reference only.
+> **Note on dashboard:** this is for your reference only.
 > This is what I did to explain the data and extract insights.
 > You can make your own dashboard with the data.
 > This is only for educational purposes, and using github copilot
