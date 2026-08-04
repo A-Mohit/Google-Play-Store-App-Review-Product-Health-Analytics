@@ -112,10 +112,4 @@ If you want one "best" page for quick results, make Page 1 the default landing p
 ## 4. Suggested filters/slicers (all pages)
 `dim_app[app_name]`, `app_version`, `issue_category`, `sentiment_label`, date range (`dim_date[date]`)
 
-## 5. Known signal in this dataset (what the dashboard should surface)
-- **v4.3.0** (Apr 1, 2025): payment-failure complaints spike, rating drops ~0.7 pts
-- **v4.5.0** (Jun 23, 2025): crash + login complaints spike, rating drops ~1.3 pts (partially
-  recovered by hotfix v4.5.1)
-- **v4.8.0** (Nov 12, 2025): UI redesign backlash, rating drops ~0.9 pts, mixed sentiment
-- Reviews with a developer reply skew heavily negative (avg rating 1.92 vs. 4.08) — replies
-  are reactive/support-driven, not proactive engagement
+
