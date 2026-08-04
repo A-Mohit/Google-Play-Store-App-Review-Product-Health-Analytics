@@ -1,0 +1,7 @@
+issue_key,issue_category,issue_description
+1,crash,"App crashes, freezes, or force closes"
+2,login,"Login, authentication, OTP, or session issues"
+3,payment,"Payment, transfer, or transaction failures"
+4,ui,UI/redesign/navigation complaints
+5,performance,"Speed, lag, loading, or battery complaints"
+6,none,No specific product issue mentioned

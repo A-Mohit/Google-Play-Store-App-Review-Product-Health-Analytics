@@ -1,0 +1,9 @@
+app_name,has_developer_reply,review_count,avg_rating,avg_sentiment
+Amazon Music,0,20000,3.4,0.267
+JioSaavn,1,438,2.59,0.049
+JioSaavn,0,19562,4.56,0.447
+SoundCloud,1,27,2.19,0.076
+SoundCloud,0,19973,4.03,0.334
+Spotify,1,2275,2.18,0.014
+Spotify,0,17725,4.11,0.375
+YouTube Music,0,20000,3.67,0.29

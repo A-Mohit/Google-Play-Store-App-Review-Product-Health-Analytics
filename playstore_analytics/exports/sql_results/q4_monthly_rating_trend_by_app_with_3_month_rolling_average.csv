@@ -1,0 +1,40 @@
+app_name,month_name,review_count,avg_rating,avg_sentiment,rolling_3mo_avg_rating
+Amazon Music,Dec 2025,2596,3.73,0.326,3.73
+Amazon Music,Jan 2026,2372,3.6,0.308,3.67
+Amazon Music,Feb 2026,2121,3.25,0.234,3.53
+Amazon Music,Mar 2026,2093,3.29,0.241,3.38
+Amazon Music,Apr 2026,2221,3.38,0.269,3.31
+Amazon Music,May 2026,2278,3.44,0.265,3.37
+Amazon Music,Jun 2026,2889,3.16,0.236,3.33
+Amazon Music,Jul 2026,3335,3.36,0.255,3.32
+Amazon Music,Aug 2026,95,3.92,0.39,3.48
+JioSaavn,Jun 2026,9486,4.52,0.445,4.52
+JioSaavn,Jul 2026,10270,4.51,0.432,4.51
+JioSaavn,Aug 2026,244,4.42,0.43,4.48
+SoundCloud,Feb 2025,437,4.1,0.361,4.1
+SoundCloud,Mar 2025,1459,4.11,0.343,4.11
+SoundCloud,Apr 2025,1372,4.08,0.344,4.1
+SoundCloud,May 2025,1524,3.76,0.29,3.98
+SoundCloud,Jun 2025,1320,3.91,0.324,3.92
+SoundCloud,Jul 2025,1228,3.95,0.317,3.87
+SoundCloud,Aug 2025,1183,3.99,0.339,3.95
+SoundCloud,Sep 2025,1111,4.04,0.311,3.99
+SoundCloud,Oct 2025,1155,4.04,0.303,4.02
+SoundCloud,Nov 2025,1040,4.06,0.341,4.05
+SoundCloud,Dec 2025,1197,3.97,0.305,4.02
+SoundCloud,Jan 2026,1054,4.09,0.366,4.04
+SoundCloud,Feb 2026,932,4.11,0.355,4.06
+SoundCloud,Mar 2026,894,4.04,0.337,4.08
+SoundCloud,Apr 2026,777,3.94,0.332,4.03
+SoundCloud,May 2026,996,4.16,0.374,4.05
+SoundCloud,Jun 2026,1160,4.22,0.362,4.11
+SoundCloud,Jul 2026,1137,4.11,0.344,4.16
+SoundCloud,Aug 2026,24,4.54,0.413,4.29
+Spotify,Jul 2026,19465,3.89,0.334,3.89
+Spotify,Aug 2026,535,3.92,0.333,3.91
+YouTube Music,Mar 2026,4926,4.36,0.431,4.36
+YouTube Music,Apr 2026,4299,3.4,0.236,3.88
+YouTube Music,May 2026,3937,3.37,0.235,3.71
+YouTube Music,Jun 2026,3557,3.5,0.237,3.42
+YouTube Music,Jul 2026,3194,3.53,0.269,3.47
+YouTube Music,Aug 2026,87,3.47,0.281,3.5
